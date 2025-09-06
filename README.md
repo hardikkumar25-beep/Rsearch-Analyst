@@ -1,1 +1,1 @@
-# Rsearch-Analyst
+# Research-Analyst

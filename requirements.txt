@@ -1,0 +1,13 @@
+pydantic
+python-dotenv
+langchain
+langchain-core
+langchain-groq
+langchain-community
+langchain-openai
+langchain-huggingface
+typing
+sentence-transformers
+langchain_google_genai
+faiss-cpu
+pypdf
